@@ -61,4 +61,5 @@
 @@|www.wa.me^$important
 @@|youtubei.googleapis.com^$important
 @@|partiality.itunes.apple.com^$important
-@@|fbs.smoot.apple.com^$important
+@@|experiments.apple.com^$important
+@@|supportmetrics.apple.com^$important
