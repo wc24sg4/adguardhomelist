@@ -60,3 +60,5 @@
 @@|www.redditstatic.com^$important
 @@|www.wa.me^$important
 @@|youtubei.googleapis.com^$important
+@@|partiality.itunes.apple.com^$important
+@@|fbs.smoot.apple.com^$important
