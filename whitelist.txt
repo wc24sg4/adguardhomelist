@@ -63,3 +63,8 @@
 @@|partiality.itunes.apple.com^$important
 @@|experiments.apple.com^$important
 @@|supportmetrics.apple.com^$important
+@@|evt.klarna.app^$important
+@@|l.klarna.com^$important
+@@|x.klarna.com^$important
+@@|cdn.klarna.com^$important
+@@|s.klarna.com^$important
