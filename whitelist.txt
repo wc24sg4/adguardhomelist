@@ -73,3 +73,4 @@
 @@|widgets.trustedshops.com^$important
 @@|ce.baur.de^$important
 @@|tp.baur.de^$important
+@@|em.baur.de^$important
