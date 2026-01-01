@@ -68,3 +68,8 @@
 @@|x.klarna.com^$important
 @@|cdn.klarna.com^$important
 @@|s.klarna.com^$important
+@@|smetrics.payback.de^$important
+@@|collector.github.com^$important
+@@|widgets.trustedshops.com^$important
+@@|ce.baur.de^$important
+@@|tp.baur.de^$important
