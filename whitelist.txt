@@ -74,3 +74,5 @@
 @@|tp.baur.de^$important
 @@|em.baur.de^$important
 @@|payback.de.ssl.d2.sc.omtrdc.net^$important
+@@|www.vavoo.tv^$important
+@@|mefo1.zdf.de^$important
