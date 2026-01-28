@@ -75,3 +75,6 @@
 @@|em.baur.de^$important
 @@|payback.de.ssl.d2.sc.omtrdc.net^$important
 @@|mefo1.zdf.de^$important
+@@|at.vodafone.de^$important
+@@|exagm.vodafone.de^$important
+@@|was.vodafone.de^$important
