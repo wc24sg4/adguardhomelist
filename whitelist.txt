@@ -1,4 +1,4 @@
-@@|accounts.google.com^$important
+@amazon@|accounts.google.com^$important
 @@|android.clients.google.com^$important
 @@|alb.reddit.com^$important
 @@|api-launcher-eu.hismarttv.com^$important
@@ -78,3 +78,4 @@
 @@|at.vodafone.de^$important
 @@|exagm.vodafone.de^$important
 @@|was.vodafone.de^$important
+@@|aax-eu.amazon.de^$important
